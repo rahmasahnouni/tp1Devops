@@ -1,0 +1,6 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches:
+      - main  # Déclenche le pipeline sur chaque push vers main
